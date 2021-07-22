@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @arcyopterix, AKA Marcus Harrison. 
+- 👀 I’m interested in Programming, Computer Architecture, Algorithms, and Machine Learning.
+- 🌱 I’m currently learning C.
+- 💞️ I’m looking to collaborate on any open source projects.
+- 📫 You can contact me here, or at my personal email (marcusharrison2017@gmail.com)
